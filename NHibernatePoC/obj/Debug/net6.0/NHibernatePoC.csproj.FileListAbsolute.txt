@@ -1,0 +1,14 @@
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\bin\Debug\net6.0\NHibernatePoC.exe
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\bin\Debug\net6.0\NHibernatePoC.deps.json
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\bin\Debug\net6.0\NHibernatePoC.runtimeconfig.json
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\bin\Debug\net6.0\NHibernatePoC.dll
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\bin\Debug\net6.0\NHibernatePoC.pdb
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\obj\Debug\net6.0\NHibernatePoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\obj\Debug\net6.0\NHibernatePoC.AssemblyInfoInputs.cache
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\obj\Debug\net6.0\NHibernatePoC.AssemblyInfo.cs
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\obj\Debug\net6.0\NHibernatePoC.csproj.CoreCompileInputs.cache
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\obj\Debug\net6.0\NHibernatePoC.dll
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\obj\Debug\net6.0\refint\NHibernatePoC.dll
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\obj\Debug\net6.0\NHibernatePoC.pdb
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\obj\Debug\net6.0\NHibernatePoC.genruntimeconfig.cache
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoC\obj\Debug\net6.0\ref\NHibernatePoC.dll

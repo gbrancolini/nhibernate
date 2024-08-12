@@ -1,0 +1,15 @@
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\NHibernatePoc.Infraestructure.csproj.AssemblyReference.cache
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\NHibernatePoc.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\NHibernatePoc.Infraestructure.AssemblyInfoInputs.cache
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\NHibernatePoc.Infraestructure.AssemblyInfo.cs
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\NHibernatePoc.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\bin\Debug\net6.0\NHibernatePoc.Infraestructure.deps.json
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\bin\Debug\net6.0\NHibernatePoc.Infraestructure.dll
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\bin\Debug\net6.0\NHibernatePoc.Infraestructure.pdb
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\bin\Debug\net6.0\NHibernatePoc.Core.dll
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\bin\Debug\net6.0\NHibernatePoc.Core.pdb
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\NHiberna.801C9B7C.Up2Date
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\NHibernatePoc.Infraestructure.dll
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\refint\NHibernatePoc.Infraestructure.dll
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\NHibernatePoc.Infraestructure.pdb
+D:\Learn\Personal\nhibernate\NHibernatePoC\NHibernatePoc.Infraestructure\obj\Debug\net6.0\ref\NHibernatePoc.Infraestructure.dll

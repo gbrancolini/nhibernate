@@ -1,0 +1,5 @@
+﻿Cualquier servicio interno o externo que manipule directamente la capa de datos
+
+Mensajes externos, podría ser aquí que use Twilio para notificaciones de las órdenes...
+También podría poner servicios de cache
+Migraciones

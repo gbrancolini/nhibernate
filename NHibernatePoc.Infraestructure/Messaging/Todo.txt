@@ -1,0 +1,4 @@
+﻿Lo tengo que pensar un poquito más, pero sería util para temas de mensajería:
+	interfaces e implementaciones para manejo de mensajes
+	implementaciones de servicios de mensajería (RabbitMQ, Apache Kafka, etc)
+	Middleware o background services para procesamiento de mensajes
